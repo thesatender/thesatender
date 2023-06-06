@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesatender.
-- 👀 I’m interested in DSA and CP.
-- 🌱 I’m currently learning Competitive Programming(CP).
+- 👀 I’m interested in DSA and Full Stack Development.
+- 🌱 I’m currently learning Open Source Contribution.
 - 💞️ My hobbies include cycling and listening to good music.
 - 🔥Fun fact I am good player in almost all the physical games.
 - 📫 How to reach me satender80010336@gmail.com
